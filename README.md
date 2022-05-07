@@ -15,14 +15,14 @@ python3 main.py input/input.txt bfs
 
 ## Demo:
 
-### BFS
-
-<p align = "center">
-<img src="demo/bfs.gif" />
-</p>
-
 ### UCS
 
 <p align = "center">
 <img src="demo/ucs.gif" />
+</p>
+
+### BFS
+
+<p align = "center">
+<img src="demo/bfs.gif" />
 </p>
