@@ -2,14 +2,14 @@
 
 ## Excute
 
-```python
+```shell
 python main.py <input_file_path> <algorithm> <time_delay>(optional)
 ```
 - Search_algorithm must be one of ['bfs', 'dfs', 'ucs', 'greedy', 'astar']
 
 For example:
 
-```python3
+```shell
 python3 main.py input/input.txt bfs
 ```
 
